@@ -1,5 +1,7 @@
 # shi-fu (师傅)
 
+<a href="README.md">🇨🇳 中文</a>
+
 A beginner-friendly routing and translation layer for [Matt Pocock's skills](https://github.com/mattpocock/skills).
 
 ## What this is
@@ -12,7 +14,7 @@ shi-fu is the **translation layer and routing layer** for this toolkit. It asks 
 
 - People who want to learn engineering but don't know where to start
 - People with ideas who don't know which tools to use
-- Anyone blocked by engineering jargon and陌生的概念
+- Anyone blocked by engineering jargon
 
 ## How it works
 
@@ -61,5 +63,5 @@ Answer the questions. It'll guide you through your project.
 
 ## Related
 
-- [Matt Pocock Skills](https://github.com/mattpocock/skills) — the engineering skills本体
+- [Matt Pocock Skills](https://github.com/mattpocock/skills) — the engineering skills themselves
 - [Matt Pocock Course](https://www.aihero.dev/cohorts/ai-coding-for-real-engineers-m0k0w) — paid course teaching the same workflow

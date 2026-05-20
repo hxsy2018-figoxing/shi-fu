@@ -1,5 +1,7 @@
 # shi-fu（师傅）
 
+<a href="README_EN.md">🇺🇸 English</a>
+
 一个给小白用的工程引导层。基于 [Matt Pocock 的 Skills](https://github.com/mattpocock/skills) 设计。
 
 ## 这是什么
@@ -64,4 +66,4 @@ cp SKILL.md ~/.claude/skills/shi-fu/SKILL.md
 ## 相关项目
 
 - [Matt Pocock Skills](https://github.com/mattpocock/skills) — 工程技能本体
-- [mattpocock/skills](https://github.com/mattpocock/skills) — 课程
+- [Matt Pocock 课程](https://www.aihero.dev/cohorts/ai-coding-for-real-engineers-m0k0w) — 付费课程，教授同一套 workflow
